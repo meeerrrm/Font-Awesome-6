@@ -7,4 +7,4 @@
  - data[1] is icon name <br>
  - data[2] is icon font code <br>
 
-<p>created by @meeerrrm</p>
+<h3>created by @meeerrrm</h3>
